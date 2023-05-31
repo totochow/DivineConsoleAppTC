@@ -55,29 +55,20 @@
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
-    <Reference Include="MILANGENG, Version=6.4.6.6, Culture=neutral, PublicKeyToken=0941ff6a8542e0fa, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\MISys\MISys SBM\MISys SBM 6.4 Client\MILANGENG.dll</HintPath>
+    <Reference Include="MILANGENG">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MISys\MISys SBM\MISys SBM 6.4 Client\MILANGENG.dll</HintPath>
     </Reference>
-    <Reference Include="MIStandardTableDefs, Version=6.4.6.6, Culture=neutral, PublicKeyToken=0941ff6a8542e0fa, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\MISys\MISys SBM\MISys SBM 6.4 Client\MIStandardTableDefs.dll</HintPath>
+    <Reference Include="MIStandardTableDefs">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MISys\MISys SBM\MISys SBM 6.4 Client\MIStandardTableDefs.dll</HintPath>
     </Reference>
-    <Reference Include="MISys.API, Version=6.4.6.6, Culture=neutral, PublicKeyToken=0941ff6a8542e0fa, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\MISys\MISys SBM\MISys SBM 6.4 Client\MISys.API.dll</HintPath>
+    <Reference Include="MISys.API">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MISys\MISys SBM\MISys SBM 6.4 Client\MISys.API.dll</HintPath>
     </Reference>
-    <Reference Include="MISys.ClientGlobals, Version=6.4.6.6, Culture=neutral, PublicKeyToken=0941ff6a8542e0fa, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\MISys\MISys SBM\MISys SBM 6.4 Client\MISys.ClientGlobals.dll</HintPath>
+    <Reference Include="MISys.ClientGlobals">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MISys\MISys SBM\MISys SBM 6.4 Client\MISys.ClientGlobals.dll</HintPath>
     </Reference>
-    <Reference Include="MISys.NetControlLibrary, Version=6.4.6.6, Culture=neutral, PublicKeyToken=0941ff6a8542e0fa, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\MISys\MISys SBM\MISys SBM 6.4 Client\MISys.NetControlLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="MISys.TblSpecificClasses, Version=6.4.6.6, Culture=neutral, PublicKeyToken=0941ff6a8542e0fa, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\MISys\MISys SBM\MISys SBM 6.4 Client\MISys.TblSpecificClasses.dll</HintPath>
+    <Reference Include="MISys.NetControlLibrary">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MISys\MISys SBM\MISys SBM 6.4 Client\MISys.NetControlLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
